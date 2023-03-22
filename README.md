@@ -21,11 +21,9 @@ Payload exampleas for necessary API endpoints
 ```json
 {
  "name": "Spaghetti",
- "keywords": ["pasta", "italian", ],
+ "keywords": ["pasta", "italian"],
  "instructions": ["Boil spaghetti", "prepare stew/sauce", "eat"],
  "ingredients": ["water", "tomatoes", "pepper", "salt", "golden penny spaghetti"],
  "chefId": "any_chef_id"
 }
 ```
-
-## API Endpoints
