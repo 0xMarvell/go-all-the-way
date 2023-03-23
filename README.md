@@ -27,3 +27,11 @@ Payload exampleas for necessary API endpoints
  "chefId": "any_chef_id"
 }
 ```
+
+### Chef Endpoints
+
+- GET `/chefs`
+  - Retrieves all chefs.
+
+- GET `/chefs?with-recipes=true`
+  - Retrieves all chefs and their recipes.
